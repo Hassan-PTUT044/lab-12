@@ -8,3 +8,7 @@ cout << "The sum of two numbers is:" << a+b << endl;
 //Subtraction
 
 cout << "The diff of two numbers is:" << a-b << endl;
+
+//Multiplication
+
+cout << "The product of two numbers is:" << a*b << endl;
