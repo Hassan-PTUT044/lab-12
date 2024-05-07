@@ -4,3 +4,7 @@ Muhammad Hassan
 //Addition
 
 cout << "The sum of two numbers is:" << a+b << endl;
+
+//Subtraction
+
+cout << "The diff of two numbers is:" << a-b << endl;
